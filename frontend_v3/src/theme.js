@@ -1,0 +1,23 @@
+export default {
+  primary: '#2e7d32',
+  accent: '#388e3c',
+  secondary: '#9ccc65',
+  info: '#42a5f5',
+  warning: '#ffa000',
+  error: '#d50000',
+  success: '#81c784',
+  toolbar: '#dcedc8',
+  loading: '#81c784',
+  submit: '#a5d6a7',
+  fired: '#ff8a80',
+  white: '#ffffff',
+  locked: '#ebe8d8',
+  deleted: '#ff8a80',
+  checked: '#b8f077',
+  new: '#fffc84',
+  background: '#fafafa',
+  target: '#f0f0f0',
+  procurementInfo: '#d9e8fb',
+  procurementWarning: '#fff2cd',
+  procurementComplete: '#C8E6C9'
+}

@@ -1,0 +1,2 @@
+class SngyException(Exception):
+	pass
